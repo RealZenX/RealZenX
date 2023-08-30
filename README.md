@@ -1,6 +1,6 @@
 [<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-<h1> <img src="https://telegra.ph/file/a52be9e9c459bd3f1daa1.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσꭙ </h1>
+<h1> <img src="https://telegra.ph/file/a52be9e9c459bd3f1daa1.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσv </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
@@ -9,7 +9,7 @@
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
 
 <p align="center">
-<img src="https://telegra.ph/file/5bf03c49ed5aebadcbf4f.jpg">
+<img src="https://telegra.ph/file/375cf93c8116de6fbfed2.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
