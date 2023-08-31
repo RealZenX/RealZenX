@@ -1,4 +1,4 @@
-[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarcchblob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://telegra.ph/file/a52be9e9c459bd3f1daa1.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσv </h1>
 <p align="center">
@@ -6,20 +6,20 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <p align="center">
 <img src="https://telegra.ph/file/375cf93c8116de6fbfed2.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
+[<img src="https://raw.githubusercontent.com/phoenix-monarch/phoenix-monarch/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://telegra.ph/file/c65b81d75724d6fee2bd1.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class ZenoX ():
+class zenov info ():
     def __init__(self):
-        self.name = ['zenoX]
+        self.name = ['zenov]
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
@@ -41,30 +41,30 @@ class ZenoX ():
         ]
  ```
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/TeamKazukai)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TeamKazukai)
+[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/RealZenX/RealZenX)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/RealZenX/)
 
-[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai)
+[<img src="https://github.com/RealZenX/RealZenX/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/RealZenX)
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/teamkazukai) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/TeamKazukai/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
+[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://github.com/RealZenX/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/RealZenX/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="ZenoX Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Zenov Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/xenxd><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/pervrt_sensei><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
   
 <p align="center">
@@ -89,7 +89,7 @@ Country = "🇮🇳"
 ----
 ![GitHub followers](https://img.shields.io/github/followers/phoenix-monarch?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=phoenix-monarch.phoenix-monarch)
-[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/phoenix-monarch)
+[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/RealZenX/)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phoenix-monarch)
   
 <a href="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
@@ -112,7 +112,7 @@ Country = "🇮🇳"
 
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
+<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/RealZenX)
 
 <h1> <img src="https://telegra.ph/file/95476a6fc7abd0231db4d.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσꭙ </h1>
 <p align="center">
@@ -120,20 +120,20 @@ Country = "🇮🇳"
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <p align="center">
 <img src="https://telegra.ph/file/5bf03c49ed5aebadcbf4f.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
+[<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://telegra.ph/file/c65b81d75724d6fee2bd1.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class ZenoX ():
+class Zenov ():
     def __init__(self):
-        self.name = ['zenoX]
+        self.name = ['zenov]
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
@@ -155,30 +155,30 @@ class ZenoX ():
         ]
  ```
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/RealZenX)
 
 <h1> <img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/TeamKazukai)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TeamKazukai)
 
-[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai)
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/RealZenX)
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/teamkazukai) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/TeamKazukai/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
+[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://github.com/RealZenX/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/TeamKazukai/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="ZenoX Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/)
 
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/xenxd><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/pervrt_sensei><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
   
 <p align="center">
@@ -203,7 +203,7 @@ Country = "🇮🇳"
 ----
 ![GitHub followers](https://img.shields.io/github/followers/phoenix-monarch?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=phoenix-monarch.phoenix-monarch)
-[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/phoenix-monarch)
+[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/RealZenX/)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phoenix-monarch)
   
 <a href="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
@@ -231,7 +231,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikey_7x)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veldxd)
 </details>
 
 
@@ -242,8 +242,8 @@ Country = "🇮🇳"
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.x.d) [!
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/xenxd) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x) [!
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/pervrt_sensei) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@)</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
@@ -281,7 +281,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikey_7x)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pervrt_sensei)
 </details>
 
 
@@ -292,8 +292,8 @@ Country = "🇮🇳"
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.x.d) [!
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/xenxd) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x) [!
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/pervrt_sensei) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@)</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
