@@ -112,7 +112,7 @@ Country = "🇮🇳"
 
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/RealZenX/RealZenX)
+<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐[<img src="https://github.com/RealZenX/RealZenX/blob/master/resources/hr.gif"/>](RealZenX)
 
 <h1> <img src="https://telegra.ph/file/95476a6fc7abd0231db4d.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσꭙ </h1>
 <p align="center">
